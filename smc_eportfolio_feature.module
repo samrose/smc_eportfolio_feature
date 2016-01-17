@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the smc_eportfolio_feature feature.
+ */
+
+include_once 'smc_eportfolio_feature.features.inc';
